@@ -8,7 +8,7 @@
 ![My Skills](https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,mysql,php,prisma,c,cpp,docker,py&theme=dark)  ...
 
 + 📫 Contacts:
-  - [Website](moveredd.com)
+  - [Website](https://moveredd.com)
   - [Telegram](https://t.me/moveredd)
   - [Discord](https://discord.com/users/999250151698858004)
 
