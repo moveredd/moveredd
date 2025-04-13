@@ -5,7 +5,7 @@
 
 + Things i have worked with
   
-![My Skills](https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,mysql,php,prisma,c,cpp,docker,py&theme=dark)  ...
+![My Skills](https://skillicons.dev/icons?i=java,ts,react,nextjs,mysql,php,prisma,cpp,docker,py&theme=dark)  ...
 
 + 📫 Contacts:
   - [Website](https://moveredd.com)
