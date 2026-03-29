@@ -12,6 +12,6 @@ And more
 + [moveredd.com](https://moveredd.com)
 + [Telegram](https://t.me/moveredd)
 + [Discord](https://discord.com/users/999250151698858004)
-+ [Email]dev@moveredd.com
++ [Email](dev@moveredd.com)
 
 </div>
